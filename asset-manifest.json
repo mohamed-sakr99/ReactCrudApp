@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactCrudApp/static/css/main.ddb82ca2.css",
+    "main.js": "/ReactCrudApp/static/js/main.2026cc9e.js",
+    "static/js/787.5c4cc6a9.chunk.js": "/ReactCrudApp/static/js/787.5c4cc6a9.chunk.js",
+    "index.html": "/ReactCrudApp/index.html",
+    "main.ddb82ca2.css.map": "/ReactCrudApp/static/css/main.ddb82ca2.css.map",
+    "main.2026cc9e.js.map": "/ReactCrudApp/static/js/main.2026cc9e.js.map",
+    "787.5c4cc6a9.chunk.js.map": "/ReactCrudApp/static/js/787.5c4cc6a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddb82ca2.css",
+    "static/js/main.2026cc9e.js"
+  ]
+}
